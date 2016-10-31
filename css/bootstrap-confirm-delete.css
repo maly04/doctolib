@@ -1,0 +1,52 @@
+.modal {
+
+}
+
+.fade {
+
+}
+
+#bootstrap-confirm-delete-container .modal-dialog {
+	width: 355px !important;
+}
+
+.modal-content {
+
+}
+
+#bootstrap-confirm-delete-container  .modal-header {
+	padding: 9px;
+}
+
+.modal-body {
+
+}
+
+.modal-footer {
+
+}
+
+#bootstrap-confirm-delete-container {
+
+}
+
+#bootstrap-confirm-dialog {
+
+}
+
+#bootstrap-confirm-dialog-heading {
+
+}
+
+#bootstrap-confirm-dialog-text {
+
+}
+
+#bootstrap-confirm-dialog-cancel-delete-btn {
+	 float: right !important;
+    margin-left: 10px;
+}
+
+#bootstrap-confirm-dialog-delete-btn {
+	width: auto !important;
+}
