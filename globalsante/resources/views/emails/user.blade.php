@@ -1,0 +1,19 @@
+<table>
+	<tr>
+		<td>Nom</td>
+		<td>{{$user->first_name}}</td>
+	</tr>
+	<tr>
+		<td>Prénom</td>
+		<td>{{$user->last_name}}</td>
+	</tr>
+	
+	<tr>
+		<td>Téléphone</td>
+		<td>{{$user->mobile_phone}}</td>
+	</tr>
+	<tr>
+		<td>Email</td>
+		<td>{{$user->email}}</td>
+	</tr>
+</table>

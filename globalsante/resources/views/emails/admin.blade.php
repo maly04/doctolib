@@ -1,0 +1,30 @@
+<table>
+	<tr>
+		<td>Nom</td>
+		<td>{{$user->first_name}}</td>
+	</tr>
+	<tr>
+		<td>Prénom</td>
+		<td>{{$user->last_name}}</td>
+	</tr>
+	<tr>
+		<td>Code postal</td>
+		<td>{{$user->cp}}</td>
+	</tr>
+	<tr>
+		<td>Téléphone</td>
+		<td>{{$user->phone}}</td>
+	</tr>
+	<tr>
+		<td>Votre spécialité</td>
+		<td>{{$speciality->name}}</td>
+	</tr>
+	<tr>
+		<td>Email</td>
+		<td>{{$user->email}}</td>
+	</tr>
+	<tr>
+		<td>commentaire</td>
+		<td>{{$user->info}}</td>
+	</tr>
+</table>
